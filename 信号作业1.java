@@ -12,6 +12,7 @@ public class Main {
 		i=in.nextInt();
 		rs=s[i%10-1]+","+r[i/10-1]+".";
 		System.out.println(rs);
+		
 	}
 
 	}
